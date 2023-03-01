@@ -1,7 +1,7 @@
-# build-report
+# Ruby Custom HTML Report for App Automate
 BrowserStack test execution report
 
-This repository creates an HTML file tabular test execution report of the BrowserStack Automate Build.
+This repository creates an HTML file tabular test execution report of the BrowserStack App Automate Build.
 
 How to use the repository?
 
